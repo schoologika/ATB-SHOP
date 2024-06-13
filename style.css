@@ -25,6 +25,12 @@ nav a {
 .head_img {
     display: block;
     margin: 0 auto 0 auto;
+      transition: opacity 0.5s ease-out;
+}
+.head_img:hover{
+ opacity: 1 2s ease-out;
+
+    
 }
 
 h2 {
